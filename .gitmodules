@@ -1,0 +1,3 @@
+[submodule "submodule-sample-b"]
+	path = submodule-sample-b
+	url = git@github.com:aschmois-caribou/submodule-sample-b.git
